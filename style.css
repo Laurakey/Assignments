@@ -1,0 +1,30 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+p {
+  font-family: Arial;
+}
+
+.social {
+  font-style: italic;
+}
+
+h3 {
+  color: pink;
+}
+
+h2 {
+  color: orange;
+}
+
+a:hover {
+  color: cyan;
+}
+
+#cap {
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+}
